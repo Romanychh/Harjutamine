@@ -5,3 +5,6 @@ See põhineb Git-versioonihaldussüsteemil, mis võimaldab jälgida muudatusi fa
 Peamine mõte on see, et programmeerijad saavad oma projekte salvestada, neid jagada ja üheskoos arendada.
 
 GitHubi kasutavad programmeerijad ja arendajad, tudengid, kes õpivad programmeerimist, ettevõtted, mis loovad ja hooldavad tarkvara, ning avatud lähtekoodiga kogukonnad, kes teevad tasuta projekte kõigile.
+Kui ma õpin IT-kursusel, kasutan ma GitHubi oma projektide jaoks. Näiteks kui ma loon oma esimese veebilehe, teen ma GitHubis repositooriumi nimega “my-first-website”, kuhu salvestan kõik failid – HTML, CSS ja JavaScript. Iga kord, kui ma midagi muudan või lisan uue funktsiooni, salvestan ma muudatused GitHubi. Nii saan näha oma töö ajalugu ja vajadusel naasta varasema versiooni juurde.
+
+Minu õppejõud ja kursusekaaslased saavad samuti minu projekti vaadata, kommentaare jätta või parandusi soovitada. Kui me töötame meeskonnana, saab igaüks lisada oma osa koodist ning GitHub aitab kõik need osad kokku ühendada. See on mugav, sest kõik muudatused on salvestatud ja me saame ühes projektis töötada isegi siis, kui oleme eri kohtades.
